@@ -28,3 +28,10 @@ python manage.py runserver
 ## Documentación
 
 Dentro de la aplicación se pueden encontrar dos archivos pdf, uno muestra los endpoint y el otro la documentación con los métodos de cada uno.
+
+### Endpoints
+![App Screenshot](https://i.postimg.cc/D0JqMBQ5/imagen-2023-06-14-200422457.png)
+
+### Swagger
+![App Screenshot](https://i.postimg.cc/s1CZ0ygD/imagen-2023-06-14-200655165.png)
+
